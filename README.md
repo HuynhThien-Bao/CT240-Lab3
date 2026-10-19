@@ -14,4 +14,4 @@ Báo cáo: target/site/jacoco/index.html
 - 10/10 test pass (7 phương thức test, 2 phương thức tham số hóa)
 - BookingService: Line <..>% – Branch <..>%
 
-![Jacoco report](docs/jacoco-report.png)
+![Jacoco report](docs/jacoco-report.PNG)
